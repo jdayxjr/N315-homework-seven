@@ -5,12 +5,12 @@
   "scripts": {
     "compile-sass": "sass scss/styles.scss css/styles.css -w --no-source-map",
     "serve": "live-server"
-
   },
   "author": "",
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "firebase": "^11.0.1",
     "sass": "^1.80.6"
   }
 }
